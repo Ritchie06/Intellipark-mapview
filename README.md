@@ -41,8 +41,8 @@ Intelli Park Map View is a team-based project designed to simplify parking navig
 Clone this repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/Ritchie06/Intellipark-mapview.git
+cd Intellipark-mapview
 ```
 
 Install the Python dependencies:
